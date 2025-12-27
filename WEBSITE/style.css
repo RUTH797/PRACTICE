@@ -35,7 +35,7 @@ nav {
 
 .menu ul li {
     list-style: none;
-    margin left: 5px;
+    margin left: 6px;
 }
 
 .menu ul li a {
@@ -44,7 +44,7 @@ nav {
     padding: 8px 15px;
     font-size: 18px;
     font-weight: 500;
-    border-radius: 6px;
+    border-radius: 8px;
     transition: all 0.3s ease;
 }
 
